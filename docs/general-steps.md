@@ -1,9 +1,9 @@
-# General steps
+# Test Generation for Service applications
 
-The steps for outline at general level
+The following steps are guidance of high level actions to follow
 
 
-## Providing only the source control URI
+## Scenario: Source Control URI as Input
 
 ### Obtain the OpenAPISpec document
 
